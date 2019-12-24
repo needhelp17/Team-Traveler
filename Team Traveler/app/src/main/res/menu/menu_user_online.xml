@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.teamtraveler.presentation">
+
+
+    <item
+        android:icon="@drawable/baseline_person_white_18dp"
+        android:title="profile"
+        app:showAsAction="always"
+        android:id="@+id/action_profil"
+        />
+    <item
+        android:icon="@drawable/baseline_share_white_18dp"
+        android:title="share"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="81"
+        android:title="@string/action_setting"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_confi"
+        android:orderInCategory="81"
+        android:title="@string/action_confi"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="81"
+        android:title="@string/action_help"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_log_off"
+        android:orderInCategory="81"
+        android:title="@string/action_log_off"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#D37F04</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorstandard">#E0E89B0F</color>
+    <color name="colorButtomLineTextView">#FF9800</color>
+    <color name="colorCursorTextView">#000000</color>
+    <color name="color_btn_create_ship">#FF9800</color>
+    <color name="color_icon_profile">#9D6E19</color>
+    <color name="color_icon_participant">#9D6E19</color>
+    <color name="color_stroke_email_psw_connexion">#9D6E19</color>
+    <color name="color_icon_lock_password">#9D6E19</color>
+    <color name="color_icon_lock_open_password">#9D6E19</color>
+    <color name="color_nme_app_connexion">#FF9800</color>
+</resources>

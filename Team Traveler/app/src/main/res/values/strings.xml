@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Team Traveler</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="action_setting">Paramètres</string>
+    <string name="action_confi">Confidentialité</string>
+    <string name="action_help">Aide</string>
+    <string name="action_log_off">Se Déconnecter</string>
+    <string name="mesVoyages">Mes Voyages</string>
+    <string name="calendrier_modif">Gérer mes dates</string>
+    <string name="Voyages_terminés">Voyages terminés</string>
+    <string name="new_voyage">Créer un voyage</string>
+    <string name="home_first_co_text">Bonjour, \n\n Pour commencer, créer un voyage !</string>
+    <string name="name_voyage">Nom du voyage</string>
+    <string name="location_voyage">Lieu</string>
+    <string name="connexion">connexion</string>
+    <string name="msg_date_start_newTrip">La date du début doit etre superieur à la date d\'aujourd\'hui</string>
+    <string name="msg_date_end_newTrip">La date de la fin doit etre superieur à celle du début</string>
+    <string name="msg_invalid_date_format_newTrip">La date doit avoir ce format JJ/MM/AAAA</string>
+    <string name="msg_trip_name_absent">Veuillez entrer un nom de voyage !</string>
+    <string name="msg_user_not_connected_newTrip">L utilisateur n est pas connecté</string>
+    <string name="msg_trip_saved_newTrip">Votre voyage est enregistré</string>
+    <string name="msg_auth_success_login">Authentication réussie</string>
+    <string name="msg_auth_failed_login">Authentication échoué</string>
+    <string name="msg_ident_required_register">Le champ Identifiant est obligatoire</string>
+    <string name="msg_email_required_regiter">Le champ Email est obligatoire</string>
+    <string name="msg_psw_required_register">Le champ mot de passe est obligatoire</string>
+    <string name="msg_psw_confrm_required_register">La longueur du mot de passe doit etre superieur à 6</string>
+    <string name="msg_psw_lenth_not_respected_register">Les deux mots de passes ne sont pas identiques</string>
+    <string name="msg_register_success_register">Inscription réussie</string>
+    <string name="msg_register_failed_register">E-mail ou mot de passe incorecte</string>
+    <string name="txt_btn_list_trip_home_page">Liste voyages</string>
+    <string name="error_lenth_name_trip_create_trip">Longueur max est 20</string>
+    <string name="error_name_required_create_trip">Le nom est obligatoire!</string>
+    <string name="msg_trip_name_length_exceed">La longueur max est dépassé</string>
+    <string name="msg_trip_place_length_exceed">La longueur max est dépassé</string>
+
+    <string name="error_name_required_create_housing">Le nom est obligatoire!</string>
+    <string name="msg_housing_name_length_exceed">La longueur max est dépassé</string>
+    <string name="msg_field_must_be_integer_housing">Le champs doit etre un nombre</string>
+
+    <string name="error_length_name_housing_create_housing">Longueur max est 20</string>
+    <string name="msg_housing_saved_newhousing">Votre logement est enregistré</string>
+</resources>
